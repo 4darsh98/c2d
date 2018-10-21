@@ -1,2 +1,2 @@
 # c2d
-an anonynous organisation to protect against alien attacks..
+an anonynous organisation to protect against alien attacks...
